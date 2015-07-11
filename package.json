@@ -1,0 +1,20 @@
+{
+  "name": "bl-logger",
+  "version": "1.0.0",
+  "description": "A simple logging library with multiple provided destinations and support for custom destinations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brian Labbe",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^2.9.33",
+    "lodash": "^3.10.0",
+    "request": "^2.58.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BrianLabbe/bl-logger.git"
+  }
+}
